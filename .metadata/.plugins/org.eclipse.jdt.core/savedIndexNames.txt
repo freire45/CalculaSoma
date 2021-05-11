@@ -1,0 +1,3 @@
+INDEX VERSION 1.131+C:\2 - Cursos Particulares\Algoritmos e Lógica de Programação\Modulo4\40 - Aula Extra 1 - Java - Calcula Soma\Codigo\.metadata\.plugins\org.eclipse.jdt.core
+1289320443.index
+3271103119.index
